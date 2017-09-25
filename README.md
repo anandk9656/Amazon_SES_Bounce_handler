@@ -1,7 +1,7 @@
 # Amazon_SES_Bounce_handler
 Variable used : 
-# $key = "YOUR ACCESS KEY FROM AWS CONSOLE";
-# $secret = "YOUR SECRET ACCESS KEY FROM AWS CONSOLE";
+$key = "YOUR ACCESS KEY FROM AWS CONSOLE";
+$secret = "YOUR SECRET ACCESS KEY FROM AWS CONSOLE";
 
 # In DynamoDB :
 1. Create a table named as 'SnS_notifications' with primary key as 'messageID'.
