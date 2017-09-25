@@ -17,3 +17,6 @@ $secret = "YOUR SECRET ACCESS KEY FROM AWS CONSOLE";
 # In SNS :
 1. Create a topic with endpoint as email.
 2. Create subscription to the topic.
+
+# For any Query 
+Contact me at : anandk9656@gmail.com
